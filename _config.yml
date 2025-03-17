@@ -21,7 +21,7 @@ title                    : "초록반디"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "greenbandi"
-description              : "An amazing website."
+description              : "greenbandi website"
 url                      : # "https://greenbandi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
